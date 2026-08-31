@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
