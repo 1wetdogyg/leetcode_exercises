@@ -9,11 +9,13 @@
 | [0027-remove-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +67,20 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
