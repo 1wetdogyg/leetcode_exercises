@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
