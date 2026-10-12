@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
