@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
