@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0231-power-of-two) |
 ## Simulation
