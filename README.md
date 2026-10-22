@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/1wetdogyg/leetcode_exercises/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
